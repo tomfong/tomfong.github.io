@@ -1,0 +1,15 @@
+{
+  "short_name": "Tom Fong",
+  "name": "Tom Fong Personal Page",
+  "icons": [
+    {
+      "src": "icon_round.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#00a5aa",
+  "background_color": "#0f0f0f"
+}
